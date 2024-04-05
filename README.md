@@ -1,6 +1,6 @@
 # PD-INN
 
-This code combines the principle of Peridynamics with the concept of Physics-Informed Neural Networks (PINNs) to
+This code combines the principle of Peridynamics (PD) with the concept of Physics-Informed Neural Networks (PINNs) to
 predict the displacement field of a cracked plate.
 The Ref. article for the PD-INN is (Eghbalpoor R. and Sheidaei A., 2024).
 The following code simulates a plate subjected to a tensile load at the right edge. A pre-crack is considered within the domain.
